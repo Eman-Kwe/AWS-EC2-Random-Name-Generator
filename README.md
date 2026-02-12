@@ -110,4 +110,3 @@ This department is not authorized to use EC2 Name Generator.
 | FinOps     | Authorized |
 | All Others | Denied     |
 
-```
